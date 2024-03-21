@@ -1,7 +1,7 @@
 # Coursework 4
-/n Rachel Samuels
-/n rks54
-/n No college (UCL CDT)
+<br> Rachel Samuels
+<br> rks54
+<br> No college (UCL CDT)
 
 ## Earthquake Detector
 
